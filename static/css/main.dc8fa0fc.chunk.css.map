@@ -1,0 +1,1 @@
+{"version":3,"sources":["Persik.css"],"names":[],"mappings":"AAAA,QACE,aAAc,CACd,SAAU,CACV,gBACF,CAEA,KACE,iBACF","file":"main.dc8fa0fc.chunk.css","sourcesContent":[".Persik {\r\n  display: block;\r\n  width: 65%;\r\n  margin: 30px auto;\r\n}\r\n\r\n.App {\r\n  text-align: center;\r\n}\r\n"]}
